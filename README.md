@@ -30,3 +30,5 @@
 ### 五：请求成功后，填写的邮箱号会接收到电子发票的邮件
 
 <img src="https://karuike.oss-cn-shenzhen.aliyuncs.com/d/file/module_upload_images/2020/07/5f1ba4632a51a.jpg" alt="PHP: The Right Way"/>
+
+### 六：请求成功后，请求成功URL会返回请求图片源
